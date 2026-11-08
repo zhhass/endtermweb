@@ -7,8 +7,7 @@
 - Tolegen Zhassulan
 
 ## Live site
-_Add your GitHub Pages / Netlify link here_
-
+https://zhhass.github.io/endtermweb/booking.html
 ## Topic
 A multi-page responsive website for a barbershop. Visitors can see the services and prices, choose a barber, and send a booking request online. The theme is a classic barbershop: navy, barber-pole red and brass colors, with Oswald (headings) and Source Sans 3 (text) fonts.
 
